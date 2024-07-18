@@ -1,0 +1,178 @@
+{
+  "data": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Laptops"
+      },
+      {
+        "id": 2,
+        "name": "Mobiles"
+      },
+      {
+        "id": 3,
+        "name": "Speakers"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Lenovo",
+        "imageUrl": "images/laptop1.jpg",
+        "categoryId": 1
+      },
+      {
+        "id": 2,
+        "name": "Mac",
+        "imageUrl": "images/laptop2.jpg",
+        "categoryId": 1
+      },
+      {
+        "id": 3,
+        "name": "Dell",
+        "imageUrl": "images/laptop3.jpg",
+        "categoryId": 1
+      },
+      {
+        "id": 4,
+        "name": "HP",
+        "imageUrl": "images/laptop4.jpg",
+        "categoryId": 1
+      },
+      {
+        "id": 1,
+        "name": "Nokia",
+        "imageUrl": "images/mobile1.jpg",
+        "categoryId": 2
+      },
+      {
+        "id": 2,
+        "name": "Motorolla",
+        "imageUrl": "images/mobile2.jpg",
+        "categoryId": 2
+      },
+      {
+        "id": 3,
+        "name": "Iphone",
+        "imageUrl": "images/mobile3.jpg",
+        "categoryId": 2
+      },
+      {
+        "id": 4,
+        "name": "Samsung",
+        "imageUrl": "images/mobile4.jpg",
+        "categoryId": 2
+      },
+      {
+        "id": 1,
+        "name": "Mrshall",
+        "imageUrl": "images/speaker1.jpg",
+        "categoryId": 3
+      },
+      {
+        "id": 2,
+        "name": "Hermon",
+        "imageUrl": "images/speaker2.jpg",
+        "categoryId": 3
+      },
+      {
+        "id": 3,
+        "name": "JBL",
+        "imageUrl": "images/speaker3.jpg",
+        "categoryId": 3
+      },
+      {
+        "id": 4,
+        "name": "Bosch",
+        "imageUrl": "images/speaker4.jpg",
+        "categoryId": 3
+      }
+    ],
+    "productsDetails": [
+      {
+        "id": 1,
+        "name": "Lenovo",
+        "imageUrl": "images/laptop1.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 1
+      },
+      {
+        "id": 2,
+        "name": "Mac",
+        "imageUrl": "images/laptop2.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 1
+      },
+      {
+        "id": 3,
+        "name": "Dell",
+        "imageUrl": "images/laptop3.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 1
+      },
+      {
+        "id": 4,
+        "name": "HP",
+        "imageUrl": "images/laptop4.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 1
+      },
+      {
+        "id": 1,
+        "name": "Nokia",
+        "imageUrl": "images/mobile1.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 2
+      },
+      {
+        "id": 2,
+        "name": "Motorolla",
+        "imageUrl": "images/mobile2.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 2
+      },
+      {
+        "id": 3,
+        "name": "Iphone",
+        "imageUrl": "images/mobile3.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 2
+      },
+      {
+        "id": 4,
+        "name": "Samsung",
+        "imageUrl": "images/mobile4.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 2
+      },
+      {
+        "id": 1,
+        "name": "Mrshall",
+        "imageUrl": "images/speaker1.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 3
+      },
+      {
+        "id": 2,
+        "name": "Hermon",
+        "imageUrl": "images/speaker2.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 3
+      },
+      {
+        "id": 3,
+        "name": "JBL",
+        "imageUrl": "images/speaker3.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 3
+      },
+      {
+        "id": 4,
+        "name": "Bosch",
+        "imageUrl": "images/speaker4.jpg",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi saepe maiores eveniet ab? Magnam, saepe.",
+        "categoryId": 3
+      }
+    ]
+  }
+}
